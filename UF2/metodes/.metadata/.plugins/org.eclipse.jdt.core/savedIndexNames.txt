@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\abnote\Documents\GitHub\Proyectos_java\UF2\metodes\.metadata\.plugins\org.eclipse.jdt.core
-3973248323.index
-2753313374.index
-557781834.index
-1024814052.index
