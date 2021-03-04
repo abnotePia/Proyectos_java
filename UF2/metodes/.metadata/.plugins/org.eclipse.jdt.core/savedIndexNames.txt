@@ -1,25 +1,5 @@
 INDEX VERSION 1.131+C:\Users\abnote\Documents\GitHub\Proyectos_java\UF2\metodes\.metadata\.plugins\org.eclipse.jdt.core
-309315533.index
-3009629608.index
-1768928628.index
-302168875.index
-4292119009.index
-986928139.index
 3973248323.index
+2753313374.index
 557781834.index
-460065402.index
-525601767.index
-2648608934.index
-632097879.index
-2105767672.index
-492706309.index
-3746544115.index
-616364014.index
-2197524518.index
-1448177033.index
-1063014084.index
-100621681.index
-2475868780.index
-2562017880.index
-2134519550.index
-2073794903.index
+1024814052.index
